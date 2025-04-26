@@ -1,0 +1,10 @@
+pygame
+moderngl
+numpy
+moviepy
+diffusers
+transformers
+torch
+imageio
+Pillow
+scipy
